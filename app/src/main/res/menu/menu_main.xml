@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/editar"
+        android:icon="@drawable/ic_edit"
+        android:orderInCategory="100"
+        android:title="Editar"
+        app:showAsAction="always"
+        />
+
+
+    <item
+        android:id="@+id/deletar"
+        android:icon="@drawable/ic_delete"
+        android:orderInCategory="100"
+        android:title="Deletar"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/pesquisar"
+        android:icon="@drawable/ic_search"
+        android:orderInCategory="100"
+        android:title="Pesquisar"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/ajuda"
+        android:icon="@drawable/ic_info"
+        android:orderInCategory="100"
+        android:title="Ajuda"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/sobre"
+        android:icon="@drawable/ic_info"
+        android:orderInCategory="100"
+        android:title="Sobre"
+        app:showAsAction="never"
+        />
+
+
+
+
+
+
+
+
+
+
+
+</menu>
